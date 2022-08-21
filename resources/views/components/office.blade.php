@@ -44,7 +44,7 @@
             @elseif (strpos($office->name, "会社名") !== false)
                 <td>0</td>
             @else
-                <td>110</td>
+                <td>115</td>
             @endif
         </tr>
         @endforeach
